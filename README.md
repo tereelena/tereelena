@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hola 👋, Soy Teresa Andrade</h1>
 <h3 align="center">Entusiasta de la tecnología, con muchas ganas de seguir aprendiendo</h3>
